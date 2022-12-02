@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Secrets ###
+/src/main/java/org/example/Secrets.java
